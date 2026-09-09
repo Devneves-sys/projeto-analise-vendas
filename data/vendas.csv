@@ -1,0 +1,151 @@
+﻿id_venda,data,cliente,regiao,estado,produto,categoria,quantidade,preco_unitario,desconto,valor_total,canal,forma_pagamento
+1,2025-11-24,Empresa Delta,Nordeste,BA,Monitor 24,Eletrônicos,1,950,0.15,807.5,E-commerce,Boleto
+2,2025-02-22,Empresa Alpha,Sudeste,MG,HD Externo 2TB,Componentes,6,480,0.1,2592.0,E-commerce,Pix
+3,2025-04-22,Empresa Vitória,Sudeste,RJ,Mouse Sem Fio,Periféricos,5,180,0.1,810.0,Marketplace,Boleto
+4,2025-10-07,Empresa Gama,Nordeste,BA,Mesa Escritório,Móveis,2,780,0.05,1482.0,Marketplace,Cartão de Crédito
+5,2025-06-24,Empresa Beta,Nordeste,BA,Headset Gamer,Periféricos,2,290,0.0,580.0,Loja Física,Pix
+6,2025-07-03,Empresa Sol,Sudeste,MG,Cadeira Office,Móveis,5,1150,0.0,5750.0,E-commerce,Cartão de Crédito
+7,2025-02-10,Empresa Delta,Nordeste,CE,SSD 1TB,Componentes,3,520,0.15,1326.0,Marketplace,Pix
+8,2025-01-24,Empresa Beta,Sudeste,RJ,HD Externo 2TB,Componentes,2,480,0.0,960.0,Loja Física,Cartão de Crédito
+9,2025-08-21,Empresa Delta,Nordeste,PE,HD Externo 2TB,Componentes,3,480,0.0,1440.0,Marketplace,Cartão de Crédito
+10,2025-12-26,Empresa Vitória,Sul,RS,HD Externo 2TB,Componentes,6,480,0.0,2880.0,E-commerce,Pix
+11,2025-08-25,Empresa Sigma,Sul,RS,Mesa Escritório,Móveis,3,780,0.15,1989.0,E-commerce,Pix
+12,2025-01-17,Empresa Atlântico,Sudeste,RJ,Cadeira Office,Móveis,4,1150,0.0,4600.0,Marketplace,Cartão de Crédito
+13,2025-04-19,Empresa Ômega,Centro-Oeste,GO,HD Externo 2TB,Componentes,4,480,0.05,1824.0,E-commerce,Pix
+14,2025-10-15,Empresa Nova,Centro-Oeste,MT,SSD 1TB,Componentes,3,520,0.15,1326.0,Loja Física,Pix
+15,2025-03-12,Empresa Gama,Sudeste,ES,SSD 1TB,Componentes,4,520,0.0,2080.0,Marketplace,Pix
+16,2025-12-15,Empresa Atlântico,Centro-Oeste,DF,Mesa Escritório,Móveis,5,780,0.0,3900.0,Loja Física,Boleto
+17,2025-05-09,Empresa Horizonte,Sudeste,SP,SSD 1TB,Componentes,1,520,0.15,442.0,Loja Física,Pix
+18,2025-05-31,Empresa Sol,Sudeste,SP,Mesa Escritório,Móveis,2,780,0.05,1482.0,E-commerce,Boleto
+19,2025-02-24,Empresa Sigma,Sul,PR,HD Externo 2TB,Componentes,3,480,0.15,1224.0,E-commerce,Boleto
+20,2025-09-29,Empresa Beta,Centro-Oeste,GO,Notebook Pro 14,Eletrônicos,5,4200,0.0,21000.0,Loja Física,Cartão de Crédito
+21,2025-05-03,Empresa Vitória,Sudeste,ES,Notebook Pro 14,Eletrônicos,2,4200,0.1,7560.0,Loja Física,Pix
+22,2025-09-30,Empresa Gama,Centro-Oeste,MT,Teclado Mecânico,Periféricos,2,320,0.15,544.0,Loja Física,Boleto
+23,2025-11-07,Empresa Ômega,Sul,RS,Mesa Escritório,Móveis,2,780,0.1,1404.0,Loja Física,Boleto
+24,2025-11-29,Empresa Delta,Centro-Oeste,GO,Cadeira Office,Móveis,4,1150,0.1,4140.0,E-commerce,Pix
+25,2025-06-23,Empresa Delta,Sul,RS,Notebook Pro 14,Eletrônicos,5,4200,0.1,18900.0,E-commerce,Pix
+26,2025-12-29,Empresa Sigma,Sudeste,ES,HD Externo 2TB,Componentes,1,480,0.0,480.0,E-commerce,Boleto
+27,2025-05-02,Empresa Gama,Sul,RS,Headset Gamer,Periféricos,6,290,0.05,1653.0,Marketplace,Boleto
+28,2025-10-23,Empresa Beta,Centro-Oeste,GO,Webcam Full HD,Eletrônicos,2,260,0.05,494.0,E-commerce,Boleto
+29,2025-08-09,Empresa Alpha,Centro-Oeste,MT,Cadeira Office,Móveis,4,1150,0.05,4370.0,Marketplace,Boleto
+30,2025-11-27,Empresa Delta,Nordeste,BA,Monitor 24,Eletrônicos,1,950,0.05,902.5,E-commerce,Pix
+31,2025-10-02,Empresa Tech,Sul,SC,Webcam Full HD,Eletrônicos,2,260,0.05,494.0,E-commerce,Pix
+32,2025-08-15,Empresa Delta,Sudeste,ES,SSD 1TB,Componentes,1,520,0.0,520.0,E-commerce,Cartão de Crédito
+33,2025-09-06,Empresa Nova,Sudeste,RJ,Webcam Full HD,Eletrônicos,2,260,0.05,494.0,E-commerce,Cartão de Crédito
+34,2025-05-16,Empresa Delta,Centro-Oeste,GO,Webcam Full HD,Eletrônicos,3,260,0.05,741.0,Loja Física,Pix
+35,2025-01-30,Empresa Alpha,Sudeste,SP,Memória RAM 16GB,Componentes,6,390,0.1,2106.0,E-commerce,Boleto
+36,2025-09-02,Empresa Gama,Sudeste,ES,SSD 1TB,Componentes,5,520,0.0,2600.0,E-commerce,Boleto
+37,2025-02-04,Empresa Atlântico,Sudeste,RJ,HD Externo 2TB,Componentes,2,480,0.05,912.0,Marketplace,Pix
+38,2025-11-14,Empresa Delta,Nordeste,PE,Monitor 24,Eletrônicos,4,950,0.15,3230.0,Marketplace,Boleto
+39,2025-06-10,Empresa Horizonte,Sul,RS,Mouse Sem Fio,Periféricos,3,180,0.05,513.0,Loja Física,Cartão de Crédito
+40,2025-06-11,Empresa Sol,Sudeste,ES,Monitor 24,Eletrônicos,1,950,0.05,902.5,E-commerce,Boleto
+41,2025-05-16,Empresa Ômega,Sul,SC,Teclado Mecânico,Periféricos,3,320,0.0,960.0,E-commerce,Cartão de Crédito
+42,2025-10-06,Empresa Horizonte,Sudeste,SP,Impressora,Eletrônicos,3,890,0.1,2403.0,E-commerce,Pix
+43,2025-05-16,Empresa Ômega,Sul,SC,Monitor 24,Eletrônicos,1,950,0.15,807.5,Marketplace,Pix
+44,2025-06-25,Empresa Tech,Nordeste,CE,Mouse Sem Fio,Periféricos,6,180,0.15,918.0,Loja Física,Pix
+45,2025-02-17,Empresa Sigma,Sudeste,ES,HD Externo 2TB,Componentes,4,480,0.0,1920.0,E-commerce,Boleto
+46,2025-05-15,Empresa Alpha,Centro-Oeste,MT,Teclado Mecânico,Periféricos,6,320,0.05,1824.0,E-commerce,Pix
+47,2025-12-20,Empresa Sol,Nordeste,CE,Teclado Mecânico,Periféricos,5,320,0.0,1600.0,E-commerce,Cartão de Crédito
+48,2025-03-07,Empresa Delta,Sudeste,SP,Notebook Pro 14,Eletrônicos,3,4200,0.0,12600.0,Marketplace,Pix
+49,2025-12-08,Empresa Vitória,Centro-Oeste,MT,Monitor 24,Eletrônicos,3,950,0.1,2565.0,E-commerce,Pix
+50,2025-03-25,Empresa Sigma,Sul,RS,Teclado Mecânico,Periféricos,4,320,0.0,1280.0,Loja Física,Boleto
+51,2025-05-08,Empresa Alpha,Sudeste,MG,Headset Gamer,Periféricos,2,290,0.15,493.0,Loja Física,Pix
+52,2025-04-13,Empresa Alpha,Sul,PR,Webcam Full HD,Eletrônicos,3,260,0.0,780.0,Marketplace,Pix
+53,2025-07-24,Empresa Horizonte,Nordeste,PE,Cadeira Office,Móveis,3,1150,0.0,3450.0,Marketplace,Cartão de Crédito
+54,2025-12-14,Empresa Gama,Sudeste,SP,SSD 1TB,Componentes,3,520,0.0,1560.0,Marketplace,Cartão de Crédito
+55,2025-01-20,Empresa Sigma,Nordeste,CE,Monitor 24,Eletrônicos,5,950,0.05,4512.5,Loja Física,Boleto
+56,2025-09-19,Empresa Alpha,Sul,SC,Monitor 24,Eletrônicos,4,950,0.1,3420.0,Marketplace,Cartão de Crédito
+57,2025-01-01,Empresa Nova,Sul,SC,SSD 1TB,Componentes,5,520,0.15,2210.0,E-commerce,Boleto
+58,2025-06-19,Empresa Sol,Sudeste,SP,Memória RAM 16GB,Componentes,3,390,0.15,994.5,Loja Física,Boleto
+59,2025-07-29,Empresa Gama,Nordeste,CE,Cadeira Office,Móveis,4,1150,0.15,3910.0,E-commerce,Cartão de Crédito
+60,2025-12-07,Empresa Atlântico,Sul,RS,Mesa Escritório,Móveis,6,780,0.15,3978.0,Loja Física,Cartão de Crédito
+61,2025-10-08,Empresa Atlântico,Sul,SC,Notebook Pro 14,Eletrônicos,3,4200,0.0,12600.0,Marketplace,Boleto
+62,2025-06-14,Empresa Tech,Sul,RS,Webcam Full HD,Eletrônicos,4,260,0.05,988.0,Marketplace,Pix
+63,2025-12-04,Empresa Delta,Nordeste,BA,Monitor 24,Eletrônicos,3,950,0.1,2565.0,Marketplace,Cartão de Crédito
+64,2025-04-26,Empresa Tech,Sudeste,RJ,Mouse Sem Fio,Periféricos,2,180,0.0,360.0,Marketplace,Pix
+65,2025-08-22,Empresa Vitória,Sul,RS,Mesa Escritório,Móveis,6,780,0.1,4212.0,Loja Física,Cartão de Crédito
+66,2025-07-24,Empresa Nova,Sudeste,ES,Mouse Sem Fio,Periféricos,2,180,0.15,306.0,E-commerce,Pix
+67,2025-12-23,Empresa Tech,Sul,PR,SSD 1TB,Componentes,4,520,0.0,2080.0,E-commerce,Cartão de Crédito
+68,2025-12-08,Empresa Atlântico,Nordeste,PE,SSD 1TB,Componentes,5,520,0.1,2340.0,Marketplace,Boleto
+69,2025-08-07,Empresa Ômega,Centro-Oeste,DF,SSD 1TB,Componentes,4,520,0.0,2080.0,E-commerce,Boleto
+70,2025-05-22,Empresa Tech,Sul,SC,SSD 1TB,Componentes,4,520,0.15,1768.0,E-commerce,Boleto
+71,2025-05-27,Empresa Beta,Nordeste,CE,Mouse Sem Fio,Periféricos,3,180,0.0,540.0,E-commerce,Pix
+72,2025-04-29,Empresa Nova,Sul,PR,Mesa Escritório,Móveis,6,780,0.0,4680.0,Loja Física,Cartão de Crédito
+73,2025-10-05,Empresa Nova,Sul,SC,Webcam Full HD,Eletrônicos,4,260,0.0,1040.0,Marketplace,Boleto
+74,2025-01-11,Empresa Ômega,Sudeste,SP,Memória RAM 16GB,Componentes,4,390,0.05,1482.0,Loja Física,Cartão de Crédito
+75,2025-10-03,Empresa Delta,Sul,SC,Impressora,Eletrônicos,6,890,0.1,4806.0,Loja Física,Cartão de Crédito
+76,2025-09-06,Empresa Gama,Centro-Oeste,MT,Notebook Pro 14,Eletrônicos,4,4200,0.0,16800.0,Loja Física,Pix
+77,2025-11-15,Empresa Horizonte,Sudeste,ES,SSD 1TB,Componentes,1,520,0.05,494.0,Loja Física,Pix
+78,2025-08-25,Empresa Delta,Centro-Oeste,DF,Teclado Mecânico,Periféricos,1,320,0.0,320.0,Loja Física,Cartão de Crédito
+79,2025-06-22,Empresa Tech,Nordeste,BA,Mesa Escritório,Móveis,3,780,0.05,2223.0,E-commerce,Boleto
+80,2025-10-04,Empresa Alpha,Sudeste,ES,Notebook Pro 14,Eletrônicos,3,4200,0.0,12600.0,E-commerce,Pix
+81,2025-01-11,Empresa Horizonte,Sul,SC,Memória RAM 16GB,Componentes,2,390,0.0,780.0,E-commerce,Boleto
+82,2025-04-22,Empresa Atlântico,Nordeste,BA,Webcam Full HD,Eletrônicos,6,260,0.0,1560.0,Marketplace,Boleto
+83,2025-02-28,Empresa Atlântico,Sudeste,SP,Teclado Mecânico,Periféricos,3,320,0.0,960.0,Marketplace,Cartão de Crédito
+84,2025-07-23,Empresa Vitória,Sul,PR,Impressora,Eletrônicos,2,890,0.0,1780.0,Loja Física,Boleto
+85,2025-11-04,Empresa Nova,Nordeste,CE,Monitor 24,Eletrônicos,5,950,0.0,4750.0,Marketplace,Cartão de Crédito
+86,2025-02-05,Empresa Tech,Sudeste,MG,SSD 1TB,Componentes,6,520,0.0,3120.0,E-commerce,Cartão de Crédito
+87,2025-07-05,Empresa Gama,Sul,SC,HD Externo 2TB,Componentes,4,480,0.15,1632.0,Marketplace,Boleto
+88,2025-11-30,Empresa Nova,Centro-Oeste,DF,Headset Gamer,Periféricos,5,290,0.1,1305.0,Marketplace,Boleto
+89,2025-05-18,Empresa Delta,Nordeste,PE,Cadeira Office,Móveis,2,1150,0.0,2300.0,Loja Física,Boleto
+90,2025-11-09,Empresa Sigma,Sudeste,MG,HD Externo 2TB,Componentes,4,480,0.0,1920.0,E-commerce,Cartão de Crédito
+91,2025-04-19,Empresa Vitória,Nordeste,CE,Cadeira Office,Móveis,3,1150,0.0,3450.0,Loja Física,Boleto
+92,2025-01-06,Empresa Nova,Sul,RS,SSD 1TB,Componentes,2,520,0.0,1040.0,Loja Física,Boleto
+93,2025-05-04,Empresa Alpha,Centro-Oeste,DF,Impressora,Eletrônicos,4,890,0.15,3026.0,E-commerce,Cartão de Crédito
+94,2025-04-24,Empresa Atlântico,Nordeste,CE,Mesa Escritório,Móveis,6,780,0.0,4680.0,Loja Física,Cartão de Crédito
+95,2025-10-11,Empresa Vitória,Nordeste,PE,SSD 1TB,Componentes,3,520,0.05,1482.0,Loja Física,Cartão de Crédito
+96,2025-06-06,Empresa Beta,Sul,SC,Headset Gamer,Periféricos,2,290,0.0,580.0,Marketplace,Boleto
+97,2025-12-20,Empresa Vitória,Centro-Oeste,DF,Teclado Mecânico,Periféricos,2,320,0.0,640.0,Marketplace,Boleto
+98,2025-11-02,Empresa Sigma,Nordeste,BA,Headset Gamer,Periféricos,1,290,0.0,290.0,E-commerce,Cartão de Crédito
+99,2025-01-08,Empresa Alpha,Nordeste,BA,Impressora,Eletrônicos,5,890,0.0,4450.0,Marketplace,Cartão de Crédito
+100,2025-12-24,Empresa Atlântico,Sudeste,ES,Teclado Mecânico,Periféricos,6,320,0.05,1824.0,Loja Física,Cartão de Crédito
+101,2025-09-03,Empresa Tech,Sudeste,SP,Webcam Full HD,Eletrônicos,3,260,0.0,780.0,E-commerce,Pix
+102,2025-07-25,Empresa Gama,Sudeste,RJ,Webcam Full HD,Eletrônicos,1,260,0.1,234.0,Marketplace,Cartão de Crédito
+103,2025-02-13,Empresa Atlântico,Centro-Oeste,MT,Mouse Sem Fio,Periféricos,1,180,0.1,162.0,Marketplace,Pix
+104,2025-09-25,Empresa Nova,Nordeste,CE,Mesa Escritório,Móveis,4,780,0.05,2964.0,Loja Física,Boleto
+105,2025-11-14,Empresa Horizonte,Sudeste,RJ,Notebook Pro 14,Eletrônicos,5,4200,0.15,17850.0,E-commerce,Cartão de Crédito
+106,2025-12-05,Empresa Beta,Sul,RS,Monitor 24,Eletrônicos,2,950,0.0,1900.0,E-commerce,Pix
+107,2025-07-29,Empresa Alpha,Centro-Oeste,DF,Webcam Full HD,Eletrônicos,6,260,0.1,1404.0,E-commerce,Cartão de Crédito
+108,2025-12-28,Empresa Ômega,Sudeste,RJ,Headset Gamer,Periféricos,6,290,0.05,1653.0,Marketplace,Boleto
+109,2025-12-05,Empresa Gama,Sul,RS,Mouse Sem Fio,Periféricos,4,180,0.0,720.0,Loja Física,Pix
+110,2025-02-06,Empresa Beta,Nordeste,PE,Notebook Pro 14,Eletrônicos,2,4200,0.0,8400.0,Loja Física,Boleto
+111,2025-06-05,Empresa Beta,Centro-Oeste,DF,Impressora,Eletrônicos,4,890,0.0,3560.0,Marketplace,Pix
+112,2025-08-10,Empresa Beta,Nordeste,BA,Impressora,Eletrônicos,3,890,0.1,2403.0,E-commerce,Boleto
+113,2025-10-22,Empresa Alpha,Nordeste,CE,Memória RAM 16GB,Componentes,1,390,0.15,331.5,E-commerce,Cartão de Crédito
+114,2025-09-23,Empresa Nova,Sul,RS,HD Externo 2TB,Componentes,4,480,0.0,1920.0,Marketplace,Cartão de Crédito
+115,2025-02-16,Empresa Horizonte,Nordeste,PE,Webcam Full HD,Eletrônicos,3,260,0.05,741.0,E-commerce,Pix
+116,2025-06-18,Empresa Nova,Nordeste,CE,Mesa Escritório,Móveis,6,780,0.05,4446.0,Marketplace,Pix
+117,2025-08-21,Empresa Nova,Nordeste,BA,Monitor 24,Eletrônicos,3,950,0.0,2850.0,Marketplace,Pix
+118,2025-12-03,Empresa Sol,Sudeste,RJ,SSD 1TB,Componentes,4,520,0.05,1976.0,Loja Física,Boleto
+119,2025-09-13,Empresa Sol,Sul,SC,HD Externo 2TB,Componentes,4,480,0.0,1920.0,E-commerce,Cartão de Crédito
+120,2025-08-13,Empresa Vitória,Sudeste,RJ,Impressora,Eletrônicos,4,890,0.0,3560.0,E-commerce,Cartão de Crédito
+121,2025-10-10,Empresa Beta,Sudeste,RJ,Notebook Pro 14,Eletrônicos,5,4200,0.05,19950.0,Loja Física,Pix
+122,2025-11-28,Empresa Vitória,Nordeste,CE,Teclado Mecânico,Periféricos,4,320,0.15,1088.0,Loja Física,Cartão de Crédito
+123,2025-09-05,Empresa Delta,Sul,SC,Webcam Full HD,Eletrônicos,2,260,0.05,494.0,Marketplace,Boleto
+124,2025-03-11,Empresa Ômega,Nordeste,CE,Monitor 24,Eletrônicos,3,950,0.05,2707.5,E-commerce,Cartão de Crédito
+125,2025-06-02,Empresa Tech,Centro-Oeste,GO,Memória RAM 16GB,Componentes,5,390,0.15,1657.5,Marketplace,Cartão de Crédito
+126,2025-06-26,Empresa Sigma,Centro-Oeste,DF,Cadeira Office,Móveis,5,1150,0.1,5175.0,E-commerce,Boleto
+127,2025-05-03,Empresa Sigma,Centro-Oeste,GO,Memória RAM 16GB,Componentes,4,390,0.0,1560.0,Marketplace,Cartão de Crédito
+128,2025-12-28,Empresa Alpha,Sul,SC,Mesa Escritório,Móveis,4,780,0.15,2652.0,E-commerce,Boleto
+129,2025-10-30,Empresa Alpha,Sudeste,MG,Cadeira Office,Móveis,1,1150,0.05,1092.5,Marketplace,Pix
+130,2025-07-29,Empresa Sigma,Centro-Oeste,DF,HD Externo 2TB,Componentes,2,480,0.0,960.0,Marketplace,Boleto
+131,2025-07-23,Empresa Horizonte,Centro-Oeste,DF,HD Externo 2TB,Componentes,1,480,0.0,480.0,Marketplace,Cartão de Crédito
+132,2025-10-05,Empresa Horizonte,Sul,RS,Notebook Pro 14,Eletrônicos,5,4200,0.0,21000.0,Loja Física,Pix
+133,2025-02-16,Empresa Gama,Sudeste,MG,Mesa Escritório,Móveis,1,780,0.15,663.0,Marketplace,Cartão de Crédito
+134,2025-01-15,Empresa Sigma,Nordeste,PE,Notebook Pro 14,Eletrônicos,3,4200,0.0,12600.0,Loja Física,Pix
+135,2025-05-06,Empresa Gama,Sul,PR,SSD 1TB,Componentes,4,520,0.1,1872.0,E-commerce,Boleto
+136,2025-07-15,Empresa Gama,Centro-Oeste,MT,Memória RAM 16GB,Componentes,6,390,0.0,2340.0,E-commerce,Cartão de Crédito
+137,2025-11-23,Empresa Ômega,Sudeste,MG,Headset Gamer,Periféricos,4,290,0.0,1160.0,Marketplace,Boleto
+138,2025-03-22,Empresa Nova,Nordeste,CE,Monitor 24,Eletrônicos,4,950,0.0,3800.0,Marketplace,Cartão de Crédito
+139,2025-08-22,Empresa Delta,Centro-Oeste,GO,Headset Gamer,Periféricos,2,290,0.05,551.0,Loja Física,Boleto
+140,2025-07-03,Empresa Horizonte,Nordeste,BA,Memória RAM 16GB,Componentes,3,390,0.15,994.5,Loja Física,Cartão de Crédito
+141,2025-01-05,Empresa Ômega,Sudeste,MG,Memória RAM 16GB,Componentes,6,390,0.15,1989.0,E-commerce,Boleto
+142,2025-06-30,Empresa Vitória,Nordeste,CE,Mouse Sem Fio,Periféricos,6,180,0.0,1080.0,Marketplace,Boleto
+143,2025-03-12,Empresa Tech,Sudeste,SP,HD Externo 2TB,Componentes,1,480,0.15,408.0,E-commerce,Boleto
+144,2025-07-06,Empresa Vitória,Nordeste,PE,Impressora,Eletrônicos,2,890,0.0,1780.0,Loja Física,Pix
+145,2025-04-13,Empresa Ômega,Nordeste,BA,Teclado Mecânico,Periféricos,5,320,0.0,1600.0,Loja Física,Cartão de Crédito
+146,2025-06-23,Empresa Horizonte,Sul,PR,Monitor 24,Eletrônicos,4,950,0.0,3800.0,Marketplace,Boleto
+147,2025-07-23,Empresa Ômega,Centro-Oeste,GO,SSD 1TB,Componentes,3,520,0.0,1560.0,Marketplace,Pix
+148,2025-08-21,Empresa Nova,Nordeste,CE,Cadeira Office,Móveis,6,1150,0.15,5865.0,Marketplace,Cartão de Crédito
+149,2025-02-25,Empresa Atlântico,Sudeste,SP,HD Externo 2TB,Componentes,2,480,0.05,912.0,E-commerce,Boleto
+150,2025-02-02,Empresa Nova,Nordeste,CE,HD Externo 2TB,Componentes,4,480,0.15,1632.0,E-commerce,Pix
