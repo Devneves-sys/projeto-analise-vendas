@@ -6,6 +6,15 @@ Projeto de análise de dados desenvolvido para praticar um fluxo básico de **Da
 
 ![Dashboard de Análise de Vendas](images/dashboard.png)
 
+## 📈 Principais Indicadores
+
+| Indicador | Resultado |
+|---|---:|
+| 💰 Faturamento | R$ 442.690,50 |
+| 📦 Quantidade vendida | 525 |
+| 🧾 Número de vendas | 150 |
+| 💵 Ticket médio | R$ 2.951,27 |
+
 ## 🎯 Objetivo
 
 Analisar um conjunto fictício de vendas para identificar:
