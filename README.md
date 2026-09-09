@@ -2,6 +2,10 @@
 
 Projeto de análise de dados desenvolvido para praticar um fluxo básico de **Data Analytics**, desde a preparação dos dados até a criação de indicadores e dashboards.
 
+## 📊 Dashboard
+
+![Dashboard de Análise de Vendas](images/dashboards.png)
+
 ## 🎯 Objetivo
 
 Analisar um conjunto fictício de vendas para identificar:
