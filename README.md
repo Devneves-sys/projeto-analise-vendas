@@ -4,7 +4,7 @@ Projeto de análise de dados desenvolvido para praticar um fluxo básico de **Da
 
 ## 📊 Dashboard
 
-![Dashboard de Análise de Vendas](images/dashboards.png)
+![Dashboard de Análise de Vendas](images/dashboard.png)
 
 ## 🎯 Objetivo
 
